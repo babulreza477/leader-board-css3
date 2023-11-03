@@ -119,7 +119,7 @@ courses styles
   .players, .blogs, .courses{
     grid-template-columns: repeat(1, 1fr);
   }
-  .player, .blogs,{
+  .player, .blogs{
     flex-direction: column;
   }
 }
